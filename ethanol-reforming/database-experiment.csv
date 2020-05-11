@@ -1,0 +1,8 @@
+Surface,Total Activity,Reforming,Decomposition,CH4,Reference
+Pt(111),0.025,0.980,0.000,0.020,"Skoplyak et al., J. Phys. Chem. B 2006, 110, 1686-1694"
+Pt-Ni-Pt(111),0.015,1.000,0.000,0.000,"Skoplyak et al., J. Phys. Chem. B 2006, 110, 1686-1695"
+Ni-Pt-Pt(111),0.087,0.850,0.030,0.120,"Skoplyak et al., J. Phys. Chem. B 2006, 110, 1686-1696"
+Pt-Fe-Pt(111),0.044,1.000,0.000,0.000,"Skoplyak et al., Catalysis Today 147 (2009) 150–160"
+Fe-Pt-Pt(111),0.150,0.640,0.360,0.000,"Skoplyak et al., Catalysis Today 147 (2009) 150–161"
+Pt-Ti-Pt(111),0.106,0.280,0.720,0.000,"Skoplyak et al., Catalysis Today 147 (2009) 150–162"
+Ti-Pt-Pt(111),0.191,0.450,0.550,0.000,"Skoplyak et al., Catalysis Today 147 (2009) 150–163"

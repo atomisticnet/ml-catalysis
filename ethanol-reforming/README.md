@@ -1,10 +1,4 @@
-# ml-catalysis
-
-Machine Learning for Catalysis
-
-## Prediction of Ethanol Reforming Activity and Selectivity
-
-**Subdirectory: ethanol-reforming**
+# Prediction of Ethanol Reforming Activity and Selectivity
 
 The scripts `01-activation-energy-model.py` and
 `02-activity-and-selectivity-model.py` have to be run sequentially.  The
@@ -12,7 +6,7 @@ first script predicts transition-state energies based on DFT
 thermochemical data.  The second script predicts reforming activities
 and selectivities based on the transition-state energies from script 1.
 
-### 01-activation-energy-model.py
+## 01-activation-energy-model.py
 
     usage: 01-activation-energy-model.py [-h] [dft_data]
 
@@ -30,7 +24,7 @@ and selectivities based on the transition-state energies from script 1.
     optional arguments:
       -h, --help  show this help message and exit
 
-### 02-activity-and-selectivity-model.py
+## 02-activity-and-selectivity-model.py
 
     usage: 02-activity-and-selectivity-model.py [-h]
                                                 [dft_data] [transition_state_data]
@@ -52,7 +46,7 @@ and selectivities based on the transition-state energies from script 1.
     optional arguments:
       -h, --help            show this help message and exit
 
-### Example Output
+## Example Output
 
     $ ./01-activation-energy-model.py
     CV RMSE (RFR+GPR) = 0.31367854134356526
@@ -62,7 +56,7 @@ and selectivities based on the transition-state energies from script 1.
       CV RMSE = 0.00360602875964415
       CV MAE  = 0.0033449441185262325
 
-### Generated Output Files
+## Generated Output Files
 
 **Output from script 1**
 
