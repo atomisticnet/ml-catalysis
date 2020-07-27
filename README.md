@@ -1,3 +1,7 @@
+<p align="center"><a href="http://ann.atomistic.net">
+<img src="https://raw.githubusercontent.com/atomisticnet/ml-catalysis/master/aenet-logo-mlcat.png?token=ADZKL7KVB4YNWM6VGDX2YE27E5LMO" />
+<a/></p>
+
 # ml-catalysis
 
 Machine Learning for Catalysis
