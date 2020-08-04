@@ -1,12 +1,22 @@
 <p align="center"><a href="http://ann.atomistic.net">
-<img src="https://raw.githubusercontent.com/atomisticnet/ml-catalysis/master/aenet-logo-mlcat.png?token=ADZKL7KVB4YNWM6VGDX2YE27E5LMO" />
+<img width="200" src="https://raw.githubusercontent.com/atomisticnet/ml-catalysis/master/aenet-logo-mlcat.png?token=ADZKL7KVB4YNWM6VGDX2YE27E5LMO" />
 <a/></p>
 
-# ml-catalysis
+# ml-catalysis – Machine Learning for Catalysis
 
-Machine Learning for Catalysis
+This repository contains a collection of machine learning models for catalysis applications.
 
 ## Prediction of Ethanol Reforming Activity and Selectivity
+
+This model is described in detail in: 
+
+N. Artrith<super>*</super>, Z. Lin, and J. G Chen, <br/>
+Predicting the Activity and Selectivity of Bimetallic Metal Catalysts for Ethanol Reforming using Machine Learning,<br/>
+*ACS Catal.* (2020) **ASAP**, https://doi.org/10.1021/acscatal.0c02089
+
+Please cite this reference if you make use of any parts of the source code or model.
+
+<super>*</super>Contact: nartrith@atomistic.net
 
 **Subdirectory: ethanol-reforming**
 
