@@ -95,3 +95,7 @@ and selectivities based on the transition-state energies from script 1.
 * validation-reforming-selectivity-logit.png
 * validation-reforming-selectivity-logit.pdf
 * predicted-reforming-selectivity-logit.csv
+
+### Acknowledgments
+
+DFT calculations and machine-learning model construction made use of the Extreme Science and Engineering Discovery Environment (XSEDE), which is supported by National Science Foundation grant number ACI-1053575 (allocation no. DMR14005). Calculations were also performed on the computational resources of the Center for Functional Nano- materials, which is a U.S. DOE Office of Science Facility, at Brookhaven National Laboratory under Contract No. DE- SC0012704. We also acknowledge computing resources from Columbia University’s Shared Research Computing Facility project, which is supported by NIH Research Facility Improvement Grant 1G20RR030893-01, and associated funds from the New York State Empire State Development, Division of Science Technology and Innovation (NYSTAR) Contract C090171, both awarded April 15, 2010. This article was sponsored by the Catalysis Center for Energy Innovation (CCEI), an Energy Frontier Research Center (EFRC) funded by the U.S. Department of Energy, Office of Basic Energy Sciences under Award Number DE-SC0001004. N.A. thanks Dr. Jose Garrido Torres and Dr. Mark S Hybertsen for discussions.
