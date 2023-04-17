@@ -10,9 +10,14 @@ This repository contains a collection of machine learning models for catalysis a
 
 This model is described in detail in: 
 
-N. Artrith<super>*</super>, Z. Lin, and J. G Chen, <br/>
-Predicting the Activity and Selectivity of Bimetallic Metal Catalysts for Ethanol Reforming using Machine Learning,<br/>
+**N. Artrith<super>*</super>**, Z. Lin, and J. G Chen, <br/>
+"Predicting the Activity and Selectivity of Bimetallic Metal Catalysts for Ethanol Reforming using Machine Learning",<br/>
 *ACS Catal.* 2020, **10**, 9438−9444, DOI: https://doi.org/10.1021/acscatal.0c02089
+
+S.R. Denny, Z. Lin, W.N. Porter, **N. Artrith<super>*</super>**, and J.G. Chen*, <br/>
+"Machine Learning Prediction and Experimental Verification of Pt-Modified Nitride Catalysts for Ethanol Reforming with Reduced Precious Metal Loading" *Applied Catalysis B: Environmental*, 2022, **312**, 121380: DOI https://doi.org/10.1016/j.apcatb.2022.121380
+
+
 
 Please cite this reference if you make use of any parts of the source code or model or the DFT database.
 
